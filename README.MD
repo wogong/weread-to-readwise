@@ -20,11 +20,11 @@
 This tool converts Weread notes to a csv compatible with Readwise.
 
 ## How to use
-        1. In Weread, go into your notes, click "export/导出"
-        2. Click "Copy to clipboard/复制到剪贴板”
-        3. Paste the copied notes into a txt file
-        4. Run this script by typing 'weread2readwise.py --path [txt file path]', the script will create a csv file
-        5. In Readwise, import the csv file in this page: https://readwise.io/import_bulk
+1. In Weread, go into your notes, click "export/导出"
+2. Click "Copy to clipboard/复制到剪贴板”
+3. Paste the copied notes into a txt file
+4. Run this script by typing 'weread2readwise.py --path [txt file path]', the script will create a csv file
+5. In Readwise, import the csv file in this page: https://readwise.io/import_bulk
 
 ## Notes
 1. You can use the --url option to add the book URL address, although I didn't find it useful
